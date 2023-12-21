@@ -1,0 +1,7 @@
+﻿  Project1.cpp
+C:\Users\MVideo\source\repos\Project1\Project1\Project1.cpp(80,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MVideo\source\repos\Project1\Project1\Project1.cpp(136,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MVideo\source\repos\Project1\Project1\Project1.cpp(199,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MVideo\source\repos\Project1\Project1\Project1.cpp(238,29): warning C4804: >=: небезопасное использование типа "bool" в операции
+C:\Users\MVideo\source\repos\Project1\Project1\Project1.cpp(238,47): warning C4804: <=: небезопасное использование типа "bool" в операции
+  Project1.vcxproj -> C:\Users\MVideo\source\repos\Project1\x64\Debug\Project1.exe
